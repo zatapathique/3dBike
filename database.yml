@@ -1,0 +1,24 @@
+movies:
+  - title:          muzakowski
+    id:             0
+    folder_path:    C:\3D\Trenazer\Muzakowski
+    intro:          15:07
+    outro:          3:19
+
+  - title:          ujsciewarty
+    id:             1
+    folder_path:    C:\3D\Trenazer\Ujscie_Warty
+    intro:          24:17
+    outro:          4:09
+
+  - title:          mierzecin
+    id:             2
+    folder_path:    C:\3D\Trenazer\Mierzecin
+    intro:          24:32
+    outro:          3:30
+
+photos:
+  - title:          woodstock
+    id:             3
+    folder_path:    C:\3D\Foto\Woodstock
+    initial_photo:  0001.jpg
