@@ -17,7 +17,7 @@ require './album'
 require './qt_app'
 
 # since this script loads automaticaly after PC starts
-# we have to let it load all the stuff it needs
+# we have to let it load all of the stuff it needs
 sleep 10 
 
 app = Qt::Application.new(ARGV)
